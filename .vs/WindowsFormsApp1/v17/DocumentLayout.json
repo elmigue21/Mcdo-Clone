@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,22 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,104 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 245,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Methods.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Methods.cs",
               "RelativeDocumentMoniker": "Methods.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Methods.cs",
               "RelativeToolTip": "Methods.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAtAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:32:10.195Z"
+              "WhenOpened": "2024-04-15T12:32:10.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAACQAAAAHAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAH0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:26:15.134Z"
+              "WhenOpened": "2024-04-15T12:26:15.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAAASAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAADMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:44:44.45Z"
+              "WhenOpened": "2024-04-15T14:44:44.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form3.cs",
               "RelativeToolTip": "Form3.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAALkAAAA+AAAA",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAALkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T14:44:51.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form5.cs",
               "RelativeToolTip": "Form5.cs",
-              "ViewState": "AQIAAHUCAAAAAAAAAAASwOEBAAARAAAA",
+              "ViewState": "AQIAACEDAAAAAAAAAAAAAFoCAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:45:00.115Z"
+              "WhenOpened": "2024-04-15T14:45:00.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form6.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form6.cs",
               "RelativeDocumentMoniker": "Form6.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form6.cs",
               "RelativeToolTip": "Form6.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAEQBAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:45:07.903Z"
+              "WhenOpened": "2024-04-15T14:45:07.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form7.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form7.cs",
               "RelativeDocumentMoniker": "Form7.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form7.cs",
               "RelativeToolTip": "Form7.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAEMAAAAkAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAEMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:45:13.626Z"
+              "WhenOpened": "2024-04-15T14:45:13.626Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form8.cs",
               "DocumentMoniker": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form8.cs",
               "RelativeDocumentMoniker": "Form8.cs",
               "ToolTip": "C:\\Users\\John\\source\\repos\\mcdo2-main\\WindowsFormsApp1\\Form8.cs",
               "RelativeToolTip": "Form8.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAAAxAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAADMAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:45:20.346Z"
+              "WhenOpened": "2024-04-15T14:45:20.346Z",
+              "EditorCaption": ""
             }
           ]
         }
